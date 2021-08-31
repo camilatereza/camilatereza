@@ -1,23 +1,9 @@
 ### Oiiii! Me chamo Camila Tereza 👋
 
-| Profissional | Pessoal |
-| --- | --- |
-| 🔭 Atualmente estou trabalhando na ESIG software | 😄 Pronouns: Ela/Dela |
-| 🌱 Estou estudando IA e Machine Learning | ⚡ Fun fact: Sou metida a blogueirinha |
-
-<!--
-
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
-
 <div>
   <a href="https://github.com/camilatereza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilatereza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilatereza&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilatereza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -37,3 +23,19 @@ Here are some ideas to get you started:
   
   ![Snake animation](https://github.com/camilatereza/camilatereza/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
+  ##
+ 
+| Profissional | Pessoal |
+| --- | --- |
+| 🔭 Atualmente estou trabalhando na ESIG software | 😄 Pronouns: Ela/Dela |
+| 🌱 Estou estudando IA e Machine Learning | ⚡ Fun fact: Sou metida a blogueirinha |
+
+<!--
+
+Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+-->
