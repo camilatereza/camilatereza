@@ -33,8 +33,6 @@
   <!--![Snake animation](https://github.com/camilatereza/camilatereza/blob/output/github-contribution-grid-snake.svg)-->
 </div>
   
-  ##
-  
 <table align="center">
   <thead> 
     <th> Profissional </th>
