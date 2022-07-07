@@ -31,14 +31,28 @@
 </div>
   
   ##
-<p align="center">
+<table align="center">
+  <thead> 
+    <th> Profissional </th>
+    <th> Pessoal </th>
+  </thead>
+  <tbody> 
+    <tr> 
+      <td> 🔭 Atualmente estou trabalhando na ESIG software </td>
+      <td> 🌱 Estou estudando IA, Machine Learning e JavaScript </td>
+    </tr>
+    <tr> 
+      <td> 😄 Pronouns: Ela/Dela </td>
+      <td> ⚡ Fun fact: Sou metida a blogueirinha </td>
+    </tr>
+  </tbody>
+</table>
   
 | Profissional | Pessoal |
 | --- | --- |
 | 🔭 Atualmente estou trabalhando na ESIG software | 😄 Pronouns: Ela/Dela |
 | 🌱 Estou estudando IA, Machine Learning e JavaScript | ⚡ Fun fact: Sou metida a blogueirinha |
 
- </p>
 <!--
 
 Here are some ideas to get you started:
