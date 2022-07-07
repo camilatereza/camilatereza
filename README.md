@@ -1,8 +1,6 @@
 <h1 align="center"> Olá! Me chamo Camila Tereza 👋 </h1> 
 <h4 align="center"> Aqui você encontrará um pouco dos meus interesses e no que venho trabalhando </h4>
 
-##
-
 <div align="center">
   <a href="https://github.com/camilatereza">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=camilatereza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
