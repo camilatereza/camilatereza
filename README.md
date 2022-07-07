@@ -23,15 +23,7 @@
   
   ##
   
- <h3 align="center"> Contato </h3>
- 
-<div align="center"> 
-  <a href="https://instagram.com/camilatereza1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:camila.tereza@dcx.ufpb.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camila-tereza-b97673181" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  <!--![Snake animation](https://github.com/camilatereza/camilatereza/blob/output/github-contribution-grid-snake.svg)-->
-</div>
+ <h3 align="center"> Sobre mim </h3>
   
 <table align="center">
   <thead> 
@@ -49,6 +41,14 @@
     </tr>
   </tbody>
 </table>
+  
+  <div align="center"> 
+  <a href="https://instagram.com/camilatereza1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:camila.tereza@dcx.ufpb.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/camila-tereza-b97673181" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  <!--![Snake animation](https://github.com/camilatereza/camilatereza/blob/output/github-contribution-grid-snake.svg)-->
+</div>
 
 <!--
 
