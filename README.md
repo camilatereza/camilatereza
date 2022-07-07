@@ -1,6 +1,5 @@
-<div align="center">
 ### Oiiii! Me chamo Camila Tereza 👋
-</div>
+
 <div align="center">
   <a href="https://github.com/camilatereza">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=camilatereza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -30,12 +29,12 @@
 </div>
   
   ##
-<div align="center">
+
 | Profissional | Pessoal |
 | --- | --- |
 | 🔭 Atualmente estou trabalhando na ESIG software | 😄 Pronouns: Ela/Dela |
 | 🌱 Estou estudando IA, Machine Learning e JavaScript | ⚡ Fun fact: Sou metida a blogueirinha |
-</div>
+
 <!--
 
 Here are some ideas to get you started:
