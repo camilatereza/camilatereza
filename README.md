@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! Me chamo Camila Tereza 👋 </h1> 
 
-### Aqui você encontrará um pouco do que trabalho e me interesso
+<h3 align="center"> Aqui você encontrará um pouco do que trabalho e me interesso </h3>
 
 <div align="center">
   <a href="https://github.com/camilatereza">
@@ -32,6 +32,7 @@
   
   ##
 <center>
+  
 | Profissional | Pessoal |
 | --- | --- |
 | 🔭 Atualmente estou trabalhando na ESIG software | 😄 Pronouns: Ela/Dela |
