@@ -1,6 +1,7 @@
 <h1 align="center"> Olá! Me chamo Camila Tereza 👋 </h1> 
-
 <h4 align="center"> Aqui você encontrará um pouco dos meus interesses e no que venho trabalhando </h4>
+
+##
 
 <div align="center">
   <a href="https://github.com/camilatereza">
@@ -31,6 +32,7 @@
 </div>
   
   ##
+  
 <table align="center">
   <thead> 
     <th> Profissional </th>
@@ -47,11 +49,6 @@
     </tr>
   </tbody>
 </table>
-  
-| Profissional | Pessoal |
-| --- | --- |
-| 🔭 Atualmente estou trabalhando na ESIG software | 😄 Pronouns: Ela/Dela |
-| 🌱 Estou estudando IA, Machine Learning e JavaScript | ⚡ Fun fact: Sou metida a blogueirinha |
 
 <!--
 
