@@ -33,10 +33,10 @@
   <tbody> 
     <tr> 
       <td> 🔭 Atualmente estou trabalhando na Assertiva Tecnologia </td>
-      <td> 🌱 Estou estudando IA, Análise de dados e JavaScript </td>
+      <td> 😄 Pronouns: Ela/Dela </td>
     </tr>
     <tr> 
-      <td> 😄 Pronouns: Ela/Dela </td>
+      <td> 🌱 Estou estudando IA, Análise de dados e JavaScript </td>
       <td> ⚡ Fun fact: Amo fazer video e falar besteira nas redes sociais </td>
     </tr>
   </tbody>
