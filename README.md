@@ -32,19 +32,19 @@
   </thead>
   <tbody> 
     <tr> 
-      <td> 🔭 Atualmente estou trabalhando na ESIG software </td>
-      <td> 🌱 Estou estudando IA, Machine Learning e JavaScript </td>
+      <td> 🔭 Atualmente estou trabalhando na Assertiva Tecnologia </td>
+      <td> 🌱 Estou estudando IA, Análise de dados e JavaScript </td>
     </tr>
     <tr> 
       <td> 😄 Pronouns: Ela/Dela </td>
-      <td> ⚡ Fun fact: Sou metida a blogueirinha </td>
+      <td> ⚡ Fun fact: Amo fazer video e falar besteira nas redes sociais </td>
     </tr>
   </tbody>
 </table>
   
   <div align="center"> 
   <a href="https://instagram.com/camilatereza1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:camila.tereza@dcx.ufpb.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:camilatereza15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camila-tereza-b97673181" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   <!--![Snake animation](https://github.com/camilatereza/camilatereza/blob/output/github-contribution-grid-snake.svg)-->
