@@ -32,12 +32,12 @@
   </thead>
   <tbody> 
     <tr> 
-      <td> 🔭 Atualmente estou trabalhando na Assertiva Tecnologia </td>
-      <td> 😄 Pronouns: Ela/Dela </td>
+      <td> 💻 Atualmente estou trabalhando na Assertiva Tecnologia </td>
+      <td> 👩 Pronouns: Ela/Dela </td>
     </tr>
     <tr> 
-      <td> 🌱 Estou estudando IA, Análise de dados e JavaScript </td>
-      <td> ⚡ Fun fact: Amo fazer video e falar besteira nas redes sociais </td>
+      <td> 📚 Tenho estudado e desejado migrar para o front-end </td>
+      <td> 😊 Fun fact: Amo fazer video e falar besteira nas redes sociais </td>
     </tr>
   </tbody>
 </table>
