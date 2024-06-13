@@ -24,6 +24,7 @@
   ##
   
  <h3 align="center"> Sobre mim </h3>
+ <p>Utilizo com mais frequencia o GitHub vinculado a empresa e estoupara migrar alguns projetos para este</p>
   
 <table align="center">
   <thead> 
